@@ -1,0 +1,22 @@
+{
+  "name": "aws-lambda-2",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/l54qypowy7",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "latest",
+    "firebase": "4.9.1",
+    "material-ui": "1.0.0-beta.10",
+    "material-ui-icons": "1.0.0-beta.10",
+    "react": "15.5.3",
+    "react-dazzle": "1.2.7",
+    "react-dom": "15.5.3",
+    "react-math": "0.0.1",
+    "react-redux": "5.0.6",
+    "react-router-dom": "4.2.2",
+    "recharts": "1.0.0-beta.10",
+    "victory": "0.25.5"
+  }
+}
